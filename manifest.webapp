@@ -10,8 +10,8 @@
     "128": "/img/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Your name",
-    "url": "http://example.com"
+    "name": "Noitidart",
+    "url": "https://github.com/Noitidart/TextNow-on-FxOS/issues"
   },
   "type": "privileged",
   "permissions": {},
@@ -20,8 +20,8 @@
   ],
   "locales": {
     "es": {
-      "name": "Aplicación vacía privilegiada",
-      "description": "Una plantilla con la mínima estructura",
+      "name": "SPANISH TextNow on FxOS",
+      "description": "SPANISH Allows desktop functionality for TextNow.com on FirefoxOS",
       "permissions": {}
     }
   },
